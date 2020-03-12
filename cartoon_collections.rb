@@ -14,11 +14,5 @@ end
 
 def find_the_cheese(array_of_strings)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  i = 0
-  if array_of_strings.include?(cheese_types)
-    cheese_types
     
-  else
-    nil
-  end
 end
